@@ -36,9 +36,11 @@ The HIPAA assessment focuses on employee access to ePHI within the EHR environme
 
 ## Project Deliverables
 
-- PCI DSS Network Segmentation and CDE Scoping Assessment
-- HIPAA Access Control and ePHI Protection Assessment
-- Prioritized Security Remediation Action Plan
+## Project Deliverables
+
+- [PCI DSS Segmentation and CDE Scoping Assessment](01-PCI-DSS-Segmentation-Assessment.md)
+- [HIPAA Access Control and ePHI Protection Assessment](02-HIPAA-Access-Control-Assessment.md)
+- [Integrated Remediation Action Plan](03-Remediation-Action-Plan.md)
 
 ## Skills Demonstrated
 
